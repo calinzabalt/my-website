@@ -81,3 +81,40 @@
     }
   }
   
+
+  /* FORM  */
+
+  form{
+    width:100%;
+    max-width: 900px;
+    margin:20px auto;
+
+  }
+  input, textarea{
+    width: 900px;
+    max-width: 100%;
+    resize: none;
+  }
+  textarea{
+    height: 200px;
+  }
+  label{
+    text-align: left;
+    font-weight: 400;
+  }
+  form button{
+    background: #4A96AD;
+    font-weight: bold;
+    text-transform: uppercase;
+    padding: 20px 30px;
+    font-size: 18px;
+    border:none;
+    color:#fff;
+  }
+  form p{
+    text-align: left;
+
+  }
+  .container.contact{
+    min-height: 100vh;
+  }
