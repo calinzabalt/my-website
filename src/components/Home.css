@@ -13,12 +13,12 @@
     
   }
 
-  @media screen and (max-width:375px) {
+  @media screen and (max-width:480px) {
     h1{
       font-size:3em !important;
     }
   }
-  @media screen and (max-width:375px) {
+  @media screen and (max-width:480px) {
     h3{
       font-size:22px !important;
        
@@ -30,7 +30,7 @@
     color:#fff;
     font-size:80px;
     text-align:center;
-    font-family: 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif
+    font-family: cursive, 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif
   }
 
   h3 {
@@ -69,12 +69,9 @@
   margin-right: auto;
 }
 
-
 .Fuck{
-  
-  padding: 40px;
-  
-}
+    padding: 40px;
+  }
 
 .profile-pic {
   width: 50%
@@ -88,13 +85,13 @@
 
 @media (max-width: 480px) {
   .row-2 h2{
-    font-size: 1.5em;
+    font-size: 1.6em;
   }
 }
 
 @media (max-width: 480px) {
   .row-2 p{
-    font-size: 1em;
+    font-size: 1.3em;
   }
 }
 
@@ -102,27 +99,50 @@
 
 @media (max-width: 480px) {
   .row-3 h2{
-    font-size: 1.5em;
+    font-size: 1.6em;
   }
 }
 
 @media (max-width: 480px) {
   .row-3 p{
-    font-size: 1em;
+    font-size: 1.3em;
   }
 }
 
 
-
 @media (max-width: 480px) {
   .row-4 h2{
-    font-size: 1.5em;
+    font-size: 1.6em;
   }
 }
 
 @media (max-width: 480px) {
   .row-4 p{
-    font-size: 1em;
+    font-size: 1.3em;
+  }
+}
+
+@media (max-width: 767px) {
+  .row-4 {
+    width: 400px;
+  }
+}
+
+@media (max-width: 767px) {
+  .row-3 {
+    width: 400px;
+  }
+}
+
+@media (max-width: 480px) {
+  .row-4 {
+    width: auto;
+  }
+}
+
+@media (max-width: 480px) {
+  .row-3 {
+    width: auto;
   }
 }
 

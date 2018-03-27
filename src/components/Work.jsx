@@ -8,6 +8,7 @@ export default class Work extends Component {
 
 <div className="container">            
 <div className="box">
+
     <h2>WORK</h2>
     <p>
 	Besides web developement i have more skills . One of these are 3D designing and another one is animation maker</p>
@@ -88,7 +89,7 @@ export default class Work extends Component {
           <div className="col-sm-6 center">
           <div className="video-padding">
             <div className="embed-responsive embed-responsive-16by9">
-            <iframe title="videos" src="https://www.youtube.com/embed/1qNz8LDjG_I" frameborder="0" allowfullscreen></iframe>
+            <iframe title="videos" src="https://www.youtube.com/embed/1qNz8LDjG_I" frameBorder="0" allowFullScreen></iframe>
             </div>
             </div>
           </div>
@@ -96,7 +97,7 @@ export default class Work extends Component {
           <div className="col-sm-6 center">
           <div className="video-padding">
             <div className="embed-responsive embed-responsive-16by9">
-            <iframe title="videos" src="https://www.youtube.com/embed/srrh_u1nMG0" frameborder="0" allowfullscreen></iframe>
+            <iframe title="videos" src="https://www.youtube.com/embed/srrh_u1nMG0" frameBorder="0" allowFullScreen></iframe>
             </div>
             </div>
           </div>
@@ -104,7 +105,7 @@ export default class Work extends Component {
           <div className="col-sm-6 center">
           <div className="video-padding">
             <div className="embed-responsive embed-responsive-16by9">
-            <iframe title="videos" src="https://www.youtube.com/embed/olyZHJrjrh8" frameborder="0" allowfullscreen></iframe>
+            <iframe title="videos" src="https://www.youtube.com/embed/olyZHJrjrh8" frameBorder="0" allowFullScreen></iframe>
             </div>
             </div>
           </div>

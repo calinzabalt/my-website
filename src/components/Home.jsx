@@ -1,5 +1,5 @@
 import React, { Component } from 'react'
-import { Grid, Row, Col, Image } from 'react-bootstrap';
+import { Col, Image } from 'react-bootstrap';
 import './Home.css';
 
 export default class Home extends Component {
@@ -17,9 +17,9 @@ export default class Home extends Component {
 
 <div className="Fuck">
               
-<div class="container">
-  <div class="row-2">
-    <div class="col-sm-12">
+<div className="container">
+  <div className="row-2">
+    <div className="col-sm-12">
     <Col className="person-wrapper">
         <Image src="assets/resize.jpg" circle className="profile-pic"/>
     <h2>Web designer & Web developer</h2>
@@ -31,7 +31,7 @@ export default class Home extends Component {
 
 
 <div className="row-3">
-    <div class="col-sm-6">
+    <div className="col-sm-6">
     <h2> Design what you want</h2>
         <p>My goals are to focus on aspect , content, website speed ...
             I know how to create your website to run across devices using
@@ -42,7 +42,7 @@ export default class Home extends Component {
 </div>
 
     <div className="row-4">
-        <div class="col-sm-6">
+        <div className="col-sm-6">
     <h2>How I do the work</h2>
         <p>I use programming languages like HTML 5, CSS 3 and JAVASCRIPT.</p>
     </div>
