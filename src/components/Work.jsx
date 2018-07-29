@@ -11,7 +11,7 @@ export default class Work extends Component {
 
     <h2>WORK</h2>
     <p>
-	Besides web developement I have more skills . One of these are 3D designing and another one is animation maker</p>
+	Besides web development I have more skills . One of these are 3D designing and another one is animation maker</p>
 
 </div>
 
