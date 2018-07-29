@@ -10,7 +10,7 @@ export default class Contact extends Component {
 
     <div className="box-2">
     <h2>I’m currently available for freelance work.</h2>
-      <p>If you have a project that you want to get started, or if you want my help to accomplish something you can contact my on this platforms:</p>
+      <p>If you have a project that you want to get started, or if you want my help to accomplish something you can contact me on this platforms:</p>
       <a href="https://web.facebook.com/calinviorel.cozma" target="blank" className="fa fa-facebook"></a>
       <a href="https://www.linkedin.com/in/cozma-viorel-calin-947658145/" target="blank" className="fa fa-linkedin"></a>
       <a href="https://www.youtube.com/channel/UCQ2N3yvA9bq0ZgXEK2m8pwA?view_as=subscriber" target="blank" className="fa fa-youtube"></a>
