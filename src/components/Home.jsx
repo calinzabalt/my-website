@@ -15,7 +15,7 @@ export default class Home extends Component {
     </div>
  
 
-<div className="Fuck">
+<div className="Space">
               
 <div className="container">
   <div className="row-2">
